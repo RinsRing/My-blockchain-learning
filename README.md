@@ -14,3 +14,34 @@ now I have coplete chapter 2's course,this is my achievement:https://share.crypt
 maybe I should go to remix IDE to complete the Helloworld.sol
 next I will review what I have leart using markdown format.
 the lesson2 code I have comit.
+
+Lesson 1
+---
+
+### keywords
+1. pragma
+2. uint
+3. struct
+4. public (private)
+5. function
+6. event
+
+Link [here](https://cryptozombies.io/zh/lesson/1/chapter/13)
+
+Lesson2
+---
+### keywords
+1. Mapping , Address
+2. msg.sender
+3. require
+4. inheritance
+5. import
+6. Storage,memory
+7. internal,external
+8. interface
+
+link [here](https://cryptozombies.io/zh/lesson/2/chapter/12)
+
+---
+
+Now I know something about solidity,it's different from C or C++,I should try another way to achieve HelloWorld
