@@ -45,3 +45,8 @@ link [here](https://cryptozombies.io/zh/lesson/2/chapter/12)
 ---
 
 Now I know something about solidity,it's different from C or C++,I should try another way to achieve HelloWorld
+
+---
+Now I found that this course is using 0.4 solidity ,I think it's too old ,so I change learn rount
+I learn solidity in cyfrin updraft
+I will update my first HelloWorld document
