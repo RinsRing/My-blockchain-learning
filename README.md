@@ -50,3 +50,8 @@ Now I know something about solidity,it's different from C or C++,I should try an
 Now I found that this course is using 0.4 solidity ,I think it's too old ,so I change learn rount
 I learn solidity in cyfrin updraft
 I will update my first HelloWorld document
+---
+hey guys,guess what? I deploy my first contract on testnet!!!
+amazing!!!
+I am so happy now ,I think I will be successful on this course
+my code has upload
